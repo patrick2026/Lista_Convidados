@@ -76,7 +76,7 @@ bash
 Copy
 git clone https://github.com/patrick2026/Lista_Convidados.git
 <br>
-Abra o projeto:
+Abra o projeto: https://patrick2026.github.io/Lista_Convidados/
 
 Navegue até a pasta do projeto:
 
