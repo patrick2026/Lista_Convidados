@@ -74,7 +74,7 @@ Clone o repositório:
 
 bash
 Copy
-git clone https://github.com/seu-usuario/lista-convidados.git
+git clone https://github.com/patrick2026/Lista_Convidados.git
 <br>
 Abra o projeto:
 
